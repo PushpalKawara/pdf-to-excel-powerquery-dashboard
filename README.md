@@ -34,6 +34,7 @@ Such files are difficult to analyze, filter, or create meaningful dashboards fro
 
 **Clean Excel Output:**  
 ![After](after.png)  
+![Dashboard](Dashboard.png) 
 
 
 ---
