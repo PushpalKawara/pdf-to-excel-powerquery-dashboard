@@ -22,8 +22,8 @@ Such files are difficult to analyze, filter, or create meaningful dashboards fro
 ---
 
 ## 📂 Project Files  
-- 📄 [Sample Input PDF](sample-input.pdf)  
-- 📊 [Final Excel Dashboard](sample-output.xlsx)  
+- 📄 [Sample Input PDF](Sample input.pdf)  
+- 📊 [Final Excel Dashboard](‎Health_data_sample_output_file.xlsx)  
 
 ---
 
