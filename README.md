@@ -1,35 +1,57 @@
-# Excel Data Cleaning & Dashboard Project
+# pdftoexcel-powerquery-dashboard
+Convert raw PDF reports into structured Excel dashboards | Power Query | Data Cleaning | Excel Automation  
 
-This project is a demonstration of how raw data from a PDF can be converted into a structured Excel file and then presented in a clean dashboard format.  
-It is created as a sample to showcase my skills in Excel, Power Query, data cleaning, and dashboard reporting.  
-All files in this repository use dummy data only.
+# 📊 PDF to Excel PowerQuery Dashboard  
 
----
-
-## Files in this Repository
-- **sample-input.pdf** → Example input file (unstructured data)  
-- **sample-output.xlsx** → Final cleaned Excel file with dashboard  
-- **README.md** → Project details  
+This project demonstrates how I convert **raw or unstructured PDF data** into a clean, structured Excel dashboard using **Power Query** and advanced Excel techniques.  
 
 ---
 
-## Project Workflow
-1. Extracted data from PDF and converted into Excel format.  
-2. Cleaned and organized the data using **Power Query**.  
-3. Applied data validation and conditional formatting.  
-4. Used advanced formulas (INDEX, MATCH, SEARCH, etc.) for analysis.  
-5. Designed a trend report and dashboard for client-style presentation.  
+## 📝 Problem  
+Clients often share reports in PDF format which are messy and unstructured.  
+Such files are difficult to analyze, filter, or create meaningful dashboards from.  
 
 ---
 
-## Skills Used
-- Microsoft Excel (Formulas & Functions)  
-- Power Query for data cleaning  
-- Data validation & formatting  
-- Dashboard design with charts  
+## ✅ Solution  
+- Converted PDF reports into **structured Excel tables**  
+- Cleaned & formatted data using **Power Query**  
+- Applied **data validation and conditional formatting**  
+- Built a **trend report dashboard** with dynamic charts and insights  
 
 ---
 
-## Notes
-- This is only a **sample project** for portfolio purposes.  
-- The input and output files do not contain any real client data.  
+## 📂 Project Files  
+- 📄 [Sample Input PDF](sample-input.pdf)  
+- 📊 [Final Excel Dashboard](sample-output.xlsx)  
+
+---
+
+## 📸 Before & After  
+
+**Raw PDF Input:**  
+![Before](before.png)  
+
+**Clean Excel Output:**  
+![After](after.png)  
+
+
+---
+
+## ⚙️ Tools Used  
+- Microsoft Excel  
+- Power Query  
+- Excel Functions (INDEX, MATCH, SEARCH, etc.)  
+
+---
+
+## 💼 Services I Offer  
+- PDF → Excel Conversion  
+- Data Cleaning & Transformation  
+- Excel Dashboards & Reports  
+- Automation with Excel & Power Query  
+
+---
+
+## 📩 Contact  
+📧 Email: pushpalkawara101@gmail.com  
